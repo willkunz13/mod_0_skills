@@ -1,0 +1,18 @@
+Instance:
+
+Table3
+
+1. NumberofSeat(4)
+2. IsClean(False)
+3. IsNextToWindow(False)
+4. Type("Wood")
+5. Location([7,11])
+6. Height(40)
+
+Method Impact
+
+1. AddSeat(NumberofSeat(++))
+2. ClearnTable(IsClean = True)
+3. MoveTable(Location + [3,-5])
+4. RaiseTable(Height + 5)
+
