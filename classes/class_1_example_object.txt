@@ -1,0 +1,16 @@
+Instance:
+
+Spaghetti
+
+1. CountryOfOrigin("Italy"
+2. Ingredients([tomatoes, pasta, olive oil, pork, ground beef, garlic, parmesan])
+3. Calories(400)
+4. IsHot(true)
+5. ComesWithSide(true)
+
+Method Impact:
+
+1. MakeVegan(removes ground beef, pork from Ingredients)
+2. HeatDish(sets IsHot to true)
+3. ReduceSize(decreases calories by 200)
+4. HoldSide(sets ComesWithSide to false) 
