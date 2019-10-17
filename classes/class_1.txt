@@ -1,0 +1,16 @@
+Dish
+
+Attributes
+
+1. CountryOfOrigin(string)
+2. Ingredients(array)
+3. Calories(int)
+4. IsHot(boolean)
+5. ComesWithSide(boolean)
+
+Methods
+
+1. MakeVegan(changes Ingredients of Dish based on vegan diet)
+2. HeatDish(changes IsHot to true)
+3. ReduceSize(reduces Calories of Dish)
+4. HoldSide(changes ComesWithSide to false)
