@@ -1,0 +1,17 @@
+Table
+
+Attributes
+
+1. NumberofSeat(int)
+2. IsClean(boolean)
+3. IsNextToWindow(boolean)
+4. Type(string)
+5. Location(array)
+6. Height(int)
+
+Methods
+
+1. AddSeat(increases NumberOfSeat of Table)
+2. CleanTable(sets IsClean to true)
+3. MoveTable(changes Location of Table)
+4. RaiseTable(changes Height of Table)
